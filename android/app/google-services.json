@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16664813984",
+    "project_id": "shopywellfirestore",
+    "storage_bucket": "shopywellfirestore.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16664813984:android:2da3bab6fe5a36856e84c5",
+        "android_client_info": {
+          "package_name": "com.shopywell.shopywell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACZIELeu_aXUieZ7DsWeZi7sGUWUQTJKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
