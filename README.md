@@ -13,7 +13,7 @@ Real-time Database: Data stored and managed in Firestore.
 
 Responsive UI: Adaptive design for various screen sizes.
 
-##Tech Stack
+## Tech Stack
 
 Flutter: Frontend framework for cross-platform development.
 
@@ -25,14 +25,14 @@ Firestore Database: NoSQL database for real-time data handling.
 
 Provider/GetX: State management (whichever is applicable).
 
-##Installation
+## Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/shopywell.git
 cd shopywell
 
-##Install dependencies:
+## Install dependencies:
 
 flutter pub get
 
