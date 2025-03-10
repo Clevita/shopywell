@@ -3,7 +3,7 @@ ShopyWell is a Flutter-based e-commerce application designed for Android. It fea
 ### Video of the work
 https://github.com/user-attachments/assets/a78398ea-77e3-4114-aace-9387014e2e18
 
-##Features
+## Features
 
 User Authentication: Secure login and registration using Firebase Authentication.
 
