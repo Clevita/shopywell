@@ -62,7 +62,7 @@ hive_generator: ^2.0.1
 
 path_provider: ^2.1.5
 
-### Stripe(payment gatewat)
+### Stripe(payment gateway)
 
 flutter_stripe: ^11.4.0
 
