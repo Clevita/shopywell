@@ -35,28 +35,51 @@ cd shopywell
 ## Install dependencies:
 
 installing get: flutter pub get
+
 Configure Firebase: 
+
 Set up Firebase in your Flutter project.
+
 Download google-services.json and place it in the android/app directory.
+
 ### installing firebase: 
+
 flutter pub add firebase_core
+
 flutter pub add firebase_auth
+
 flutter pub add cloud_firestore
+
 for hive used for locally storing 
+
 ### hive
+
 hive: ^2.2.3
+
 hive_flutter: ^1.1.0
+
 hive_generator: ^2.0.1
+
 path_provider: ^2.1.5
+
 ### Stripe(payment gatewat)
+
 flutter_stripe: ^11.4.0
+
 dio: ^5.8.0+1
+
 ### other dependencies
+
 smooth_page_indicator: ^1.2.1
+
 google_fonts: ^6.2.1
+
 line_icons: ^2.0.3
+
 awesome_snackbar_content: ^0.1.4
+
 cached_network_image: ^3.4.1
+
 flutter_keyboard_visibility: ^5.0.0
 
 ### Run the app:
