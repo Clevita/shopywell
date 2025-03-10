@@ -108,4 +108,4 @@ This project is licensed under the MIT License.
 
 Contact
 
-For queries or suggestions, reach out via [your email or GitHub profile link].
+For queries or suggestions, reach out via [clevitamerinepereira21@gmail.com].
