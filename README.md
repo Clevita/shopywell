@@ -1,28 +1,19 @@
 # ShopyWell - Flutter E-commerce App
-
+ShopyWell is a Flutter-based e-commerce application designed for Android. It features Firebase Authentication for secure user login, Stripe as the payment gateway, and Firestore as the database for managing data efficiently.
+### Video of the work
 https://github.com/user-attachments/assets/a78398ea-77e3-4114-aace-9387014e2e18
 
-
-
-ShopyWell is a Flutter-based e-commerce application designed for Android. It features Firebase Authentication for secure user login, Stripe as the payment gateway, and Firestore as the database for managing data efficiently.
-
-Features
+##Features
 
 User Authentication: Secure login and registration using Firebase Authentication.
 
-Product Management: Browse, search, and filter products.
-
-Shopping Cart: Add, remove, and update products in the cart.
-
 Checkout & Payment: Seamless payment processing using Stripe.
-
-Order History: View past purchases and order details.
 
 Real-time Database: Data stored and managed in Firestore.
 
 Responsive UI: Adaptive design for various screen sizes.
 
-Tech Stack
+##Tech Stack
 
 Flutter: Frontend framework for cross-platform development.
 
@@ -34,14 +25,14 @@ Firestore Database: NoSQL database for real-time data handling.
 
 Provider/GetX: State management (whichever is applicable).
 
-Installation
+##Installation
 
 Clone the repository:
 
 git clone https://github.com/yourusername/shopywell.git
 cd shopywell
 
-Install dependencies:
+##Install dependencies:
 
 flutter pub get
 
